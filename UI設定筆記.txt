@@ -1,0 +1,35 @@
+UI關鍵控制項
+ImeMode作為容器
+////////////////////
+
+加入Form
+個別WindowState皆設為Max
+///////////////////////////
+
+不允許MDI子視窗 重複開窗
+在事件中加入
+//檢查父視窗每一個子視窗
+	foreach (Form f in this.MdiChildren)
+	{
+		//如果子視窗已經存在
+		if (f.Name == newMDIChild.Name)
+		{
+			//將該子視窗設為焦點
+			f.Focus();
+			return;
+		}
+	}
+	
+	newMDIChild.MdiParent = this;
+	newMDIChild.WindowState = FormWindowState.Maximized;
+	newMDIChild.Show();
+
+/////////////////////////
+
+預先載入畫面
+在Form1_Load中加入
+Form2 x = new Form2();
+            x.MdiParent = this;
+            x.Show();
+
+//////////////////////////

@@ -1,0 +1,391 @@
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form1.resources
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form2.resources
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form3.resources
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form4.resources
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\新增資料夾\newUI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prj帳號密碼登錄.FormLogin.resources
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form1.resources
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form2.resources
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form3.resources
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Form4.resources
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prj帳號密碼登錄.FormLogin.resources
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題\主UI\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\專題0819\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0820\主UI0819\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0821\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.dll
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.dll
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.dll
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.dll
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\iii\Desktop\專題0821 - 複製\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+F:\專題0821統合\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+F:\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.dll
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.dll
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.dll
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.dll
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題0821 UI統整版\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\專題\第二組專題完整版0822\專題完整版0822V1\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.imageShow.resources
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整版0828\專題完整版0828\主UI0821\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\HIRO\Desktop\第二組專題完整UI更新版0829\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整UI更新版0829V2\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0829\主UI0829\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\第二組專題完整版0830\專題完整UI更新版0830\主UI0830\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.dll
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.dll
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.dll
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.dll
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\iii\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.dll
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.dll
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.dll
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.dll
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\user\Desktop\主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.dll
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.dll
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.dll
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.dll
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+C:\Users\user\Desktop\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe.config
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.exe
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\prjFamilySecurity.pdb
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\ZedGraph.dll
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.xml
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.ML.xml
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.CV.UI.xml
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\bin\Debug\Emgu.Util.xml
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csprojAssemblyReference.cache
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormImageShow.resources
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMain.resources
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormMember.resources
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormRecord.resources
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormSetting.resources
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.FormLogin.resources
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.Properties.Resources.resources
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.GenerateResource.cache
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CoreCompileInputs.cache
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.csproj.CopyComplete
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.exe
+D:\資策會\專題\PlanA主UI0902\slnFamilySecurity\prjFamilySecurity\obj\Debug\prjFamilySecurity.pdb
